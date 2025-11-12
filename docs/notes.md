@@ -16,3 +16,4 @@ Notes and usage details for AArch64_Assembly.
 - link the usage section
 - link the usage section
 - link the usage section
+- add a note about the defaults
